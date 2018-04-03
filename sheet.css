@@ -1,0 +1,163 @@
+body{
+    margin:0px;
+    background-color:#d8d8d8;
+}
+#content{
+    position:relative;
+    margin:0px auto;
+    width:1500px;
+    height:100%;;
+    background-color:transparent;
+}
+#raster-0{
+    position:relative;
+    width:1500px;
+    height:70px;
+    background-color:transparent;
+}
+#raster-1{
+    position:relative;
+    width:500px;
+    height:auto;
+    background-color:transparent;
+    float:left;
+}
+#raster-2{
+    position:relative;
+    width:500px;
+    height:auto;
+    background-color:transparent;
+    float:left;
+}
+#raster-3{
+    position:relative;
+    width:500px;
+    height:auto;
+    background-color:transparent;
+    float:left;
+}
+.knop{
+    width:150px;
+    height:100px;
+    font-family:Tahoma;
+    font-size:30px;
+    font-weight:bold;
+}
+.knop-2{
+    width:100%;
+    height:100px;
+    font-family:Tahoma;
+    font-size:30px;
+    font-weight:bold;
+}
+.knop-3{
+    width:100px;
+    height:67px;
+    font-family:Tahoma;
+    font-size:20px;
+    font-weight:bold;
+}
+#button-table{
+    position:relative;
+    margin:0px auto;
+    margin-top:10px;
+    margin-left:18px;
+}
+#button-table-2{
+    position:relative;
+    margin:0px auto;
+    margin-top:10px;
+    margin-left:18px;
+}
+#button-table-3{
+    position:relative;
+    margin:0px auto;
+    margin-top:10px;
+    margin-left:18px;
+}
+#button-table-4{
+    position:relative;
+    margin:0px auto;
+    margin-top:10px;
+    margin-left:18px;
+}
+#artikel{
+    position:relative;
+    margin-top:30px;
+    width:500px;
+    height:55px;
+    background-color:#b3ffb3;
+    font-family:Tahoma;
+    font-size:25px;
+}
+#artikel2{
+    position:relative;
+    margin-top:30px;
+    width:500px;
+    height:55px;
+    background-color:#b3ffb3;
+    font-family:Tahoma;
+    font-size:25px;
+}
+#aantal{
+    position:relative;
+    margin-top:30px;
+    height:55px;
+    width:150px;
+    background-color:#b3ffb3;
+    font-family:Tahoma;
+    font-size:25px;
+}
+#aantal2{
+    position:relative;
+    margin-top:30px;
+    height:55px;
+    width:150px;
+    background-color:#b3ffb3;
+    font-family:Tahoma;
+    font-size:25px;
+}
+#prijs{
+    position:relative;
+    width:150px;
+    height:55px;
+    background-color:#b3ffb3;
+    font-family:Tahoma;
+    font-size:25px;
+}
+#prijs2{
+    position:relative;
+    width:150px;
+    height:55px;
+    background-color:#b3ffb3;
+    font-family:Tahoma;
+    font-size:25px;
+}
+#art-table{
+    font-family:Tahoma;
+    -webkit-box-shadow: inset 0px 0px 21px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 0px 0px 21px -7px rgba(0,0,0,0.75);
+    box-shadow: inset 0px 0px 21px -7px rgba(0,0,0,0.75);
+}
+#client-text{
+    position:relative;    
+    font-family:Tahoma;
+    margin-top:35px;
+}
+#client-table{
+    margin-left:35px;
+    border-collapse:collapse;
+    border-style:solid;
+}
+#balieinvoer{
+    margin:0px;
+}
+#input-cadeau{
+    font-size: 30px;
+}
+#input-shisheido{
+    font-size: 30px;
+}
+#input-korting{
+    font-size: 30px;
+}
